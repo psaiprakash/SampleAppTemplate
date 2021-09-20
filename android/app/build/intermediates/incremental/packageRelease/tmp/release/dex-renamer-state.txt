@@ -1,0 +1,4 @@
+#Thu Aug 19 12:45:45 IST 2021
+base.0=/Users/exalogic/Projects/ownApp/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
